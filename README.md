@@ -1,5 +1,5 @@
 # Course_HelloLambda
-Code for the Course "[Serverless API on AWS  for java developers](https://www.udemy.com/serverless-api-aws-lambda-for-java-developers/?couponCode=GITHUB)"
+Code for the Course "[Serverless API on AWS  for java developers](https://www.udemy.com/serverless-api-aws-lambda-for-java-developers/?couponCode=GETINFIRST)"
 
 This code is related to an online course on Udemy [Udemy](https://www.udemy.com/user/dries-horions/).
 
