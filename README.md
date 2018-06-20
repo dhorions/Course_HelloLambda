@@ -1,7 +1,7 @@
 # Course_HelloLambda
-Code for the Course "[Serverless API on AWS  for java developers](https://www.udemy.com/serverless-api-aws-lambda-for-java-developers/?couponCode=GETINFIRST)"
+Code for the Course "[Serverless API on AWS  for java developers](http://education.quodlibet.be/GHlambda)"
 
 This code is related to an online course on Udemy [Udemy](https://www.udemy.com/user/dries-horions/).
 
-You can now join the course for free :   [Serverless lambda API on AWS for java developers](https://www.udemy.com/serverless-api-aws-lambda-for-java-developers/?couponCode=GETINFIRST).
+You can now join the course for 14.99€ :   [Serverless lambda API on AWS for java developers](http://education.quodlibet.be/GHlambda).
 
